@@ -1,0 +1,28 @@
+body {
+  background-image:url("http://www.paul-brown.com/GALLERY/GALL90/WHITESNA.JPG");
+}
+
+.box {
+  background-color: white;
+  width: 32%;
+  margin:0 auto;
+  margin-top: 4%;
+  padding: 20px;
+  position: relative;
+}
+
+h1 {
+  text-align: center;
+  font-family: helvetica;
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+  font-family: helvetica;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
